@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fotoley_project/static/css/main.4472796d.css",
+    "main.js": "/fotoley_project/static/js/main.9b5d21ad.js",
+    "index.html": "/fotoley_project/index.html",
+    "main.4472796d.css.map": "/fotoley_project/static/css/main.4472796d.css.map",
+    "main.9b5d21ad.js.map": "/fotoley_project/static/js/main.9b5d21ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4472796d.css",
+    "static/js/main.9b5d21ad.js"
+  ]
+}
